@@ -1,10 +1,10 @@
 👋 Hi, I’m @marciacampeloreis
 
-💻 I work at Bernhoeft Contadores as Business Analyst and developer in my free time!
+💻 I am currently a software analysis and development student.
 
 🏖️ I Live in Perbambuco - Brazil
 
-🌱 I’m currently learning about HTML, CSS and JavaScript
+🌱 I’m currently learning about Data Azure, SQL, Python, Cloud Computing, Low-Level APIs, HTML, CSS and JavaScript.
 
 
 - 📫 How to reach me https://github.com/marciacampeloreis/marciacampeloreis
