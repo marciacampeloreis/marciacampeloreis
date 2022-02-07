@@ -2,7 +2,7 @@
 
 💻 I am currently a software analysis and development student.
 
-🏖️ I Live in Perbambuco - Brazil
+🏖️ I Live in Pernambuco - Brazil
 
 🌱 I’m currently learning about Data Azure, SQL Server, Python, Cloud Computing,  HTML and CSS.
 
